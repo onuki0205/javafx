@@ -1,0 +1,14 @@
+package application;
+
+import javafx.fxml.FXML;
+import javafx.scene.control.TextField;
+
+public class MainController {
+	@FXML private TextField textFeild_height;
+	@FXML private TextField textFeild_weight;
+	@FXML
+	@FXML
+	@FXML
+	@FXML
+	@FXML
+}

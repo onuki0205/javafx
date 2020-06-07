@@ -1,0 +1,19 @@
+package application;
+
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+
+public class MainController {
+	@FXML private TextField textFeild_height;
+	@FXML private TextField textFeild_weight;
+	@FXML private Label label_BMI;
+	@FXML private Label label_message;
+	@FXML private Button button_Enter;
+	@FXML
+	public void onClickedEnter(ActionEvent event) {
+		
+	}
+}
